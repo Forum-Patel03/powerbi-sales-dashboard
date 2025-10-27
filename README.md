@@ -18,7 +18,7 @@ This Power BI project provides a 3-page interactive dashboard analyzing sales da
 
 ## 📁 Files
 - **Sales_Dashboard_CV.pbix** — Main Power BI dashboard file  
-- **salesdata_assignment.xlsx** — Sample dataset used  
+- **SalesData_CV_Excel.xlsx** — Sample dataset used  
 
 ## 🏷️ Author
 **Forum Patel**  

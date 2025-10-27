@@ -1,4 +1,3 @@
-# powerbi-sales-dashboard
 # Sales Dashboard (Power BI)
 
 ## 📊 Overview
